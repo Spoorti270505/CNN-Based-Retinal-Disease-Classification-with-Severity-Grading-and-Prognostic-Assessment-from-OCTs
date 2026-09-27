@@ -399,10 +399,9 @@ and Prognostic Assessment from OCT Images."
 
 ## Repository
 
-GitHub:
+Published Paper Link:
 
-https://github.com/Shreyaswali123/Eye-Retinal-Disease-Classfication-ML-Project
-
+https://ieeexplore.ieee.org/document/11651259
 ## License
 
 No license has been specified for this repository yet.
